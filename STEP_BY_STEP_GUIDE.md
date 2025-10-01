@@ -159,14 +159,14 @@ Add these **one by one** (click "New repository secret" for each):
 
 | Secret Name | Value | Where to get it |
 |-------------|-------|-----------------|
-| `REACT_APP_FIREBASE_API_KEY` | `AIzaSyDMJDqiGrIrdAFtU9jsaCOSg7Wj5PTUL6M` | Your `.env` file |
+| `REACT_APP_FIREBASE_API_KEY` | `xxxxxxxxxxx` | Your `.env` file |
 | `REACT_APP_FIREBASE_AUTH_DOMAIN` | `mytodoapp2025.firebaseapp.com` | Your `.env` file |
 | `REACT_APP_FIREBASE_PROJECT_ID` | `mytodoapp2025` | Your `.env` file |
 | `REACT_APP_FIREBASE_STORAGE_BUCKET` | `mytodoapp2025.firebasestorage.app` | Your `.env` file |
-| `REACT_APP_FIREBASE_MESSAGING_SENDER_ID` | `38039075363` | Your `.env` file |
-| `REACT_APP_FIREBASE_APP_ID` | `1:38039075363:web:6e69aa9b609a0ab9644f96` | Your `.env` file |
+| `REACT_APP_FIREBASE_MESSAGING_SENDER_ID` | `xxxxxx` | Your `.env` file |
+| `REACT_APP_FIREBASE_APP_ID` | `1:xxxxxxxxx` | Your `.env` file |
 | `REACT_APP_FIREBASE_MEASUREMENT_ID` | (leave empty) | Your `.env` file |
-| `REACT_APP_API_BASE_URL` | `https://us-central1-mytodoapp2025.cloudfunctions.net/api` | Your `.env` file |
+
 
 #### **4.2.3. Get Firebase Token for deployment**
 
